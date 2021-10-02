@@ -26,8 +26,6 @@ let adventurous = true;
 //GREYING THESE OUT SO I CAN CODE USING ADVENTURE IN THE OTHER questions
 
 
-
-
 // 8 - Create a variable named `food`, and set its value to a string of your favorite food
 let food = 'Ethiopian Dish';
 
